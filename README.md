@@ -16,6 +16,7 @@ This project is a web page used to store contacts in your browser local storage.
 * Ensure you have a modern web browser installed
 * Open the index.html file in your web browser
 * The project should now be visible in your browser
+* You can also visit the live site URL [here](https://arinzegit.github.io/Contacts-Database-Project/)
 ## Technologies used
 * HTML
 * CSS
