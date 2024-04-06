@@ -1,4 +1,5 @@
 # Contacts Database Project
+![](assets/ContactDatabaseScreenshot.PNG)
 ## Context and Description
 This project is a web page used to store contacts in your browser local storage. I did this project to practice JSON format, interacting with local storage and dynamic tables. The features are:
 * Input fields for entering contact details
